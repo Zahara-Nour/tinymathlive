@@ -104,7 +104,7 @@ const SPECIAL_OPERATORS = {
   '\\cdot': '*',
   '\\ast': '**',
   '\\star': '***',
-  '\\times': 'xx',
+  '\\times': 'x',
   '\\div': '-:',
   '\\ltimes': '|><',
   '\\rtimes': '><|',
