@@ -1,7 +1,7 @@
 {
   "name": "mathlive",
   "version": "0.98.4",
-  "description": "A web component for math input",
+  "description": "A customed version of Mathlive from Arno Gourdol",
   "license": "MIT",
   "funding": {
     "type": "individual",
